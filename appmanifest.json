@@ -1,0 +1,17 @@
+{
+	"name": "Whistler quest",
+	"short_name": "Whistler quest",
+	"description": "protoversion",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-128.png",
+			"sizes": "1280x1280",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
